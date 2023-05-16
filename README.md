@@ -1,5 +1,35 @@
-### Hi there 👋
+<h1 align="center">Hello There! 👋</h1>
 
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <a>
+        I'm Guilherme.<br>
+        I don't have much to say about me.<br>
+        So feel free to ask me pretty much anything!<br>
+    </a>
+</p>
+
+<hr>
+
+<div align="center">
+  <a>
+  Currently i'm learning
+  </a>
+  <div style="display: inline_block"><br>
+    <a href="https://github.com/GuilhermeOOF">
+     <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    </a>
+  </div>
+</div>
+<hr>
+<div align="center">
+<a href="https://github.com/GuilhermeOOF">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOOF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOOF&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+</a>  
 <!--
 **GuilhermeOOF/GuilhermeOOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
