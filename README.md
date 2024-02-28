@@ -16,12 +16,12 @@
   Currently i'm learning
   </b>
   <div style="display: inline_block"><br>
-    <a href="#...?-Why-are-you-Reading-This?">
+    <a href="#Cool-icons-lol">
         <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
         <img align="center" alt="Html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="Css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
         <img align="center" alt="Godot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
-        <img align="center" alt="Lua" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/lua/lua-original-wordmark.svg">
+        <img align="center" alt="Lua" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
     </a>
   </div>
 </div>
