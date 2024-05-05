@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hello There! 👋</h1>
+<h1 align="center">Hello There! 👋</h1>
 
-<p style="text-align: center;">
+<p align="center">
     <b>Welcome to my page!</b><br><br>
     I'm Guilherme.<br>
     I don't have much to say about me.<br>
@@ -9,7 +9,7 @@
     
 <hr>
     
-<div style="text-align: center;">
+<div align="center">
     <b>Currently, I know how to program in the following languages</b>
     <div style="display:block;"> <br>
         <p>
@@ -24,12 +24,13 @@
     
 <hr>
     
-<div style="text-align: center;">
+<div align="center">
     <p>
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeOOF&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeOOF&layout=compact&langs_count=6&theme=tokyonight">
     </p>
 </div> 
+
 <!--
 **GuilhermeOOF/GuilhermeOOF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
