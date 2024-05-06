@@ -18,7 +18,7 @@
             <img alt="CSS3 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
             <img alt="Godot logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg">
             <img alt="Lua logo" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg">
-            <img alt="Python logo" height="30" width="40 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+            <img alt="Python logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
         </p>
     </div>
 </div>
